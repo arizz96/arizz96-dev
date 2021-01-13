@@ -6,30 +6,30 @@ import * as Space from "react-spaces";
 // test
 function App() {
   return (
-    <Space.ViewPort style={{ backgroundColor: "#282C34" }}>
+    <Space.ViewPort style={{ backgroundColor: "#282C34" }} scrollable={true}>
       <Space.Top size="15%">
         <Space.Top size="40%">
           <p style={{
             textAlign: "center",
             fontFamily: "Menlo, Consolas, DejaVu Sans Mono, monospace",
-            fontSize: "18pt",
+            fontSize: "2.5vh",
             fontStyle: "italic",
             color: "rgb(92, 99, 112)"
           }}>
             // Alessandro Rizzo
           </p>
         </Space.Top>
-        <Space.Fill style={{ marginTop: "10px" }}>
+        <Space.Fill>
           <img src={logo} alt="logo" width="auto" height="100%" style={{ display: "block", marginLeft: "auto", marginRight: "auto" }} />
         </Space.Fill>
       </Space.Top>
-      <Space.Fill>
+      <Space.Fill scrollable={true}>
         <ReactJson
           name={"arizz96-website"}
           style={{
-            padding: "30px",
+            padding: "2vh",
             fontFamily: "Menlo, Consolas, DejaVu Sans Mono, monospace",
-            fontSize: "18pt"
+            fontSize: "2.7vh"
           }}
           displayDataTypes={false}
           displayObjectSize={false}
@@ -61,12 +61,12 @@ function App() {
         />
       </Space.Fill>
       <Space.Bottom
-        size="20%"
+        size="18%"
         style={{
-          padding: "30px",
+          padding: "2vh",
           textAlign: "center",
           fontFamily: "Menlo, Consolas, DejaVu Sans Mono, monospace",
-          fontSize: "18pt",
+          fontSize: "1.6vh",
           fontStyle: "italic",
           color: "rgb(92, 99, 112)"
         }}
