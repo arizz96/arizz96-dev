@@ -29,7 +29,7 @@ function App() {
           style={{
             padding: "2vh",
             fontFamily: "Menlo, Consolas, DejaVu Sans Mono, monospace",
-            fontSize: "2.7vh"
+            fontSize: "2.3vh"
           }}
           displayDataTypes={false}
           displayObjectSize={false}
