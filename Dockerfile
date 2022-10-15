@@ -14,5 +14,8 @@ RUN yarn install --silent
 # add app
 COPY . ./
 
+# set port to standard 80
+ENV PORT 80
+
 # start app
 CMD ["yarn", "start"]
