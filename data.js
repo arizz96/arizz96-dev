@@ -1,4 +1,4 @@
-{
+var data = {
   "home": {
     "title": "Homepage",
     "body": [
