@@ -55,6 +55,7 @@ var data = {
     "facebook": "https://www.facebook.com/alerizzo96",
     "instagram": "https://www.instagram.com/arizz96/",
     "linkedin": "https://www.linkedin.com/in/alessandro-rizzo-178a04101/",
+    "medium": "https://medium.com/@arizz96",
     "twitter": "https://twitter.com/arizz96_dev"
   }
 }
