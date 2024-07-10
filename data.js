@@ -2,7 +2,7 @@ var data = {
   "home": {
     "title": "Homepage",
     "body": [
-      "Backend Ruby Engineer @ Treatwell with a passion for simple, elegant, clean, scalable code.",
+      "Backend Ruby Engineer @ 1000Farmacie with a passion for simple, elegant, clean, scalable code.",
       "Backend Engineer with a passion for simple, elegant and proof APIs. I write clean, scalable code with full test coverage. Develop, maintain and expand high-traffic web applications.",
       "I am passionate about technology, with sound background in problem solving. Its not always about any solution but the right solution for a problem. I am a fast learner and like to work on new challenges.",
       "I always think of new ideas and optimized solution to different challenges. I am very pro-active and often go out of my way to take up tasks that I consider could help the health of the project or contribute to the company."
@@ -10,8 +10,16 @@ var data = {
   },
   "work": [
     {
+      "company": "1000Farmacie",
+      "period": "dic 2023 - present",
+      "role": "Senior Ruby on Rails developer",
+      "description": [
+        "In my role at 1000Farmacie, I am responsible for developing and maintaining robust, scalable web applications using Ruby on Rails."
+      ]
+    },
+    {
       "company": "Treatwell",
-      "period": "sep 2022 - present",
+      "period": "sep 2022 - dic 2023",
       "role": "Senior software engineer",
       "description": [
         "As a natural evolution of Uala, I'm now part of the Treatwell family.",
