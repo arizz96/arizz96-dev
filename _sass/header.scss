@@ -1,0 +1,23 @@
+.site-header {
+  border-top: 0;
+  border-bottom: 1px solid #93a1a1;
+
+  a.site-title {
+    color: #eee;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    &::before {
+      background-image: url('/assets/images/logo.png');
+      background-size: 80px 80px;
+      border-radius: 50%;
+      display: inline-block;
+      width: 80px;
+      height: 80px;
+      margin-right: 20px;
+      content: "";
+    }
+  }
+}
