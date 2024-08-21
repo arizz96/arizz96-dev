@@ -25,14 +25,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Backend Ruby Engineer @ 1000Farmacie with a passion for simple, elegant, clean, scalable code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.arizz96.dev/" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:year/:month/:day/:title:output_ext
 
 header_pages:
-  - tips.md
+  - /category/tips
   - about.md
 
 # Build settings
 theme: minima
 plugins:
+  - jekyll-category-pages
   - jekyll-feed
   - jekyll-seo-tag
 
