@@ -6,8 +6,8 @@ layout: home
 list_title: Latest posts
 ---
 
-Backend Engineer with a passion for simple, elegant and proof APIs. I write clean, scalable code with full test coverage. Develop, maintain and expand high-traffic web applications.
+### Hello everyone! 👋
 
-I am passionate about technology, with sound background in problem solving. Its not always about any solution but the right solution for a problem. I am a fast learner and like to work on new challenges.
+I'm Alessandro Rizzo, I'm 28 years old, I'm a backend engineer that has always been passionate about motorsport and engineering and loves the technological world. I used to live very close to mountains and I usually spent my weekends or summer vacation hiking them.
 
-I always think of new ideas and optimized solution to different challenges. I am very pro-active and often go out of my way to take up tasks that I consider could help the health of the project or contribute to the company.
+Check out my [personal](/about#personal-experience) and [work](/about#work-experience) experiences.
