@@ -1,6 +1,10 @@
 .site-header {
+  background-color: $code-background-color;
   border-top: 0;
-  border-bottom: 1px solid #93a1a1;
+
+  a.site-title, a.page-link {
+    color: $sol-base2;
+  }
 
   a.site-title {
     display: inline-flex;
@@ -10,17 +14,17 @@
 
     &::before {
       background-image: url('/assets/images/logo.png');
-      background-size: 80px 80px;
+      background-size: 60px 60px;
       border-radius: 50%;
       display: inline-block;
-      width: 80px;
-      height: 80px;
+      width: 60px;
+      height: 60px;
       margin-right: 20px;
       content: "";
     }
   }
 
   nav.site-nav {
-    margin-top: 25px
+    margin-top: 15px
   }
 }
