@@ -2,6 +2,7 @@
 layout: post
 title: "The hard choice of a smartwatch for a geek"
 date: 2024-08-20
+published: false
 ---
 
 ## The hard choice of a smartwatch for a geek
