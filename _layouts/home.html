@@ -15,14 +15,17 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
+  {% assign grouped_posts = posts | group_by_exp: "post", "post.ref | default: post.title" %}
 
-  {%- if posts.size > 0 -%}
+  {%- if grouped_posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
+      {%- for group in grouped_posts -%}
+      {% assign en_post = group.items | find: "language", "en" %}
+      {% assign post = en_post | default: group.items.first %}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>

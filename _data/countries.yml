@@ -1,0 +1,15 @@
+en:
+  name: English
+  flag: 🇬🇧
+it:
+  name: Italian
+  flag: 🇮🇹
+fr:
+  name: French
+  flag: 🇫🇷
+es:
+  name: Spanish
+  flag: 🇪🇸
+de:
+  name: German
+  flag: 🇩🇪
