@@ -2,6 +2,8 @@
 layout: post
 title: "Cart to kart: the journey of a 14-year-olds' project"
 date: 2024-08-21
+language: en
+ref: cart-to-kart-the-journey-of-a-14-year-olds-project
 categories:
 - projects
 - diy
