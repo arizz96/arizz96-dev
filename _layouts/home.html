@@ -23,7 +23,7 @@ layout: base
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for group in grouped_posts -%}
+      {%- for group in grouped_posts limit: 3 -%}
       {% assign en_post = group.items | find: "language", "en" %}
       {% assign post = en_post | default: group.items.first %}
       <li>
