@@ -8,6 +8,6 @@ list_title: Latest posts
 
 ### Hello everyone! 👋
 
-I'm Alessandro Rizzo, I'm 28 years old, I'm a backend engineer that has always been passionate about motorsport and engineering and loves the technological world. I used to live very close to mountains and I usually spent my weekends or summer vacation hiking them.
+I'm Alessandro Rizzo, a 28-year-old backend engineer with a deep passion for motorsport, engineering, and the world of technology. Growing up near the mountains, I often spent my weekends and summer vacations hiking through them.
 
 Check out my [personal](/about#personal-experience) and [work](/about#work-experience) experiences.
