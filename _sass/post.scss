@@ -1,0 +1,46 @@
+.post-meta {
+  .post-language-switch {
+    margin-top: 5px;
+    color: $sol-base2;
+    font-size: $base-font-size;
+  }
+}
+
+.post-content {
+  .images-container {
+    padding-bottom: 5px;
+
+    .images {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+      gap: 10px;
+      align-items: center;
+      justify-items: center;
+
+      img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+      }
+
+      @include media-query($on-palm) {
+        & {
+          grid-template-columns: 1fr;
+
+          img {
+            width: 100%;
+            max-width: 300px;
+            margin: 0 auto;
+          }
+        }
+      }
+    }
+
+    p.desc {
+      padding-top: 5px;
+      color: $sol-mono1;
+      text-align: center;
+    }
+  }
+}
