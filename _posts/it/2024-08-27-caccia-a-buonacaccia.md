@@ -2,6 +2,7 @@
 layout: post
 title: Caccia a buonacaccia!
 date: 2024-08-27
+excerpt: Piccoli accorgimenti utili ad aumentare le probabilità di successo nell'iscrizione agli eventi su BuonaCaccia.
 ---
 
 Alla prima iscrizione fatta su [BuonaCaccia](https://buonacaccia.net/) nel 2021, ho provato una certa sensazione di disagio, dovuta alla mia esperienza lavorativa, per il down totale dei sistemi alle 9:00, momento in cui aprono le iscrizioni solitamente.
