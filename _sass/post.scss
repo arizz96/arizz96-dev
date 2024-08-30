@@ -43,4 +43,21 @@
       text-align: center;
     }
   }
+
+  iframe {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding-bottom: 5px;
+    align-items: center;
+    justify-items: center;
+    margin: 0 auto;
+
+    @include media-query($on-palm) {
+      & {
+        width: 100%;
+        height: auto;
+        max-width: 300px;
+      }
+    }
+  }
 }
