@@ -31,6 +31,7 @@ show_excerpts: true
 header_pages:
   - /category/projects
   - /category/tips
+  - archive.md
   - about.md
 
 defaults:
