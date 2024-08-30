@@ -24,7 +24,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   Backend Ruby Engineer @ 1000Farmacie with a passion for simple, elegant, clean, scalable code.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arizz96.dev" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title:output_ext
 show_excerpts: true
 
