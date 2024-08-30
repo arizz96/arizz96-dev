@@ -203,7 +203,7 @@ We had a large number of mentions after winning the challenge, but also for the 
 
 Many articles have been published on the school website about the [hackathon](https://www.iisvaldagno.it/hackathon-100100-challenge-il-video-riassunto/), the [winning](https://www.iisvaldagno.it/hackathon-100100-challenge-gli-studenti-del-marzotto-stravincono/), and the [fair](https://www.iisvaldagno.it/stenduino-al-maker-faire/).
 
-We met Massimo Banzi (Arduino founder) at the Maker Faire, but just after the hackathon, he mentioned our project at [IoE Forum 2015](https://www.youtube.com/watch?v=ZA1vt7zFSog).
+We met Massimo Banzi (Arduino founder) at the Maker Faire, but just after the hackathon, he mentioned our project at [IoE Forum 2015](https://youtu.be/ZA1vt7zFSog?si=sN18V0Kc51WlJ4zT&t=1069).
 
 Many local and national newspapers shared the winning announcement and our story behind it:
 
