@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Personal experience
 
-- Built a [DIY go-kart]({% post_url /en/2024-08-21-cart-to-kart-the-journey-of-a-14-year-olds-project %}) with friends when I was 14 yo
+- Built a [DIY go-kart]({% post_url /en/2024-08-21-cart-to-kart-the-journey-of-a-14-year-olds-project %}) with friends when I was 14-year-old
 - Won the Vicenza's IoT hackathon with the [Stenduino project]({% post_url /en/2023-11-17-stenduino-a-life-changing-project %}) in 2015
 - Parish youth group leader in Valli del Pasubio from 2015 to 2019
 - Scout Leader of the Italian Catholic Guides and Scouts Association (AGESCI) from 2021
